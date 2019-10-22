@@ -7,7 +7,7 @@ package plataforma.estagio.com.br;
 
 /**
  *
- * @author Lucilia Vilarino
+ * @author Franciele Sena
  */
 public class PlataformaEstagioComBr {
 
